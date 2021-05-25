@@ -3,11 +3,10 @@
 
 - 🌱 I’m currently learning **React.js, Next.js and Docker**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mobile.twitter.com/migueljuradoced" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/223136/isolated/preview/984f500cf9de4519b02b354346eb72e0-facebook-icon-social-media-by-vexels.png" alt="migueljuradoced" height="30" width="40" /></a>
-<a href="https://www.facebook.com/miguelangel.juradocedeno" target="blank"><img align="center" src="https://www.searchpng.com/wp-content/uploads/2018/12/Splash-Facebook-Icon-Png-1024x1024.png" alt="miguelangel.juradocedeno" height="30" width="40" /></a>
+<a href="https://mobile.twitter.com/migueljuradoced" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1183/PNG/512/1490133460-social-icons01_82210.png" alt="migueljuradoced" height="30" width="40" /></a>
+<a href="https://www.facebook.com/miguelangel.juradocedeno" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/223136/isolated/preview/984f500cf9de4519b02b354346eb72e0-facebook-icon-social-media-by-vexels.png" height="30" width="40" /></a>
 </p>
 
 
