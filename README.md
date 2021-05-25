@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mobile.twitter.com/migueljuradoced" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="migueljuradoced" height="30" width="40" /></a>
+<a href="https://mobile.twitter.com/migueljuradoced" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/223136/isolated/preview/984f500cf9de4519b02b354346eb72e0-facebook-icon-social-media-by-vexels.png" alt="migueljuradoced" height="30" width="40" /></a>
 <a href="https://www.facebook.com/miguelangel.juradocedeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="miguelangel.juradocedeno" height="30" width="40" /></a>
 </p>
 
