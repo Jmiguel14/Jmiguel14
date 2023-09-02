@@ -21,6 +21,9 @@
   <a href="[https://www.w3.org/html/](https://www.mongodb.com/)" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgressql" width="40" height="40"/> 
+  </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
