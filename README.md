@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
+<h1 align="center">Hi 👋, I'm Miguel Jurado</h1>
 <h3 align="center">Full Stack software developer from Ecuador</h3>
 
 - 🔭 I’m currently working on Tinkin as a Full stack software developer working in both front end and back end.
