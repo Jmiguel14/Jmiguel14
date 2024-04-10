@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Jurado</h1>
 <h3 align="center">Full Stack software developer from Ecuador</h3>
 
-- 🔭 I’m currently working on Tinkin as a Full stack software developer working in both front end and back end.
+- 🔭 I’m currently working at Senirop as a Full stack software developer working in both front end and back end.
 - 👯 I’m looking to collaborate on new challenging projects with innovative team mates.
 
 <h3 align="left">Languages and Tools:</h3>
